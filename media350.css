@@ -3,6 +3,7 @@
     img {
         width: 150px;
         height: 120px;
+        box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
     }
     #btn {
         font-size: 12px;
